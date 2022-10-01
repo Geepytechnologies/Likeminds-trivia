@@ -9,6 +9,7 @@ export default function Connect({ setUsername }) {
 
   return (
     <div className="connect">
+      <p>Play the Game</p>
       <input
         className="connectInput"
         placeholder="enter your name"
